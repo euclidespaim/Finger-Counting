@@ -26,12 +26,18 @@ Jumpers
 Clone o Repositório: Clone este repositório para o seu ambiente local.
 
 ```
-git clone https://github.com/seuusuario/nome-do-repositorio.git
-Instale as Dependências: Certifique-se de que todas as dependências necessárias estão instaladas. Isso pode incluir bibliotecas de processamento de imagem, como OpenCV, e bibliotecas para comunicação com o Arduino.
+git clone https://github.com/euclidespaim/Finger-Counting.git
 ```
+
+### Instale as Dependências: 
+
+Certifique-se de que todas as dependências necessárias estão instaladas. Isso pode incluir bibliotecas de processamento de imagem, como OpenCV, e bibliotecas para comunicação com o Arduino.
+
 ### Conecte os Componentes: 
 
-Conecte a webcam ao computador e os LEDs à placa Arduino conforme indicado no esquemático.
+Conecte a webcam ao computador e os LEDs à placa Arduino conforme indicado no esquema de montagem.
+
+![](img/img1.png)
 
 ### Compile e Carregue o Código Arduino: 
 
