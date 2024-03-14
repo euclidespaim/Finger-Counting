@@ -67,7 +67,9 @@ https://github.com/euclidespaim/Finger-Counting/assets/14187003/b775c5a1-c956-40
 Contribuições são bem-vindas! Se você encontrar um problema ou tiver alguma sugestão para melhorar este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 Autores
-Este projeto foi desenvolvido por Euclides Paim.
+
+Este projeto está sendo desenvolvido por Euclides Paim.
 
 Licença
+
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para mais detalhes.
