@@ -58,6 +58,10 @@ Mostre seus dedos para a webcam e observe como os LEDs acendem de acordo com o n
 
 
 
+https://github.com/euclidespaim/Finger-Counting/assets/14187003/b775c5a1-c956-4078-94c2-bece925703ec
+
+
+
 ## Contribuição
 
 Contribuições são bem-vindas! Se você encontrar um problema ou tiver alguma sugestão para melhorar este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
