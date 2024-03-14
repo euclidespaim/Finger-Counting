@@ -15,12 +15,13 @@ Após contar os dedos, o sistema acende uma quantidade correspondente de LEDs co
 O sistema é interativo e intuitivo, permitindo que o usuário experimente e veja os resultados instantaneamente.
 
 ## Componentes Necessários
-Webcam
-Placa Arduino
-LEDs
-Resistores
-Protoboard
-Jumpers
+
+- Webcam
+- Placa Arduino
+- LEDs
+- Resistores
+- Protoboard
+- Jumpers
 
 ## Instalação e Configuração
 Clone o Repositório: Clone este repositório para o seu ambiente local.
@@ -54,6 +55,8 @@ python new.py
 ### Interaja com o Sistema: 
 
 Mostre seus dedos para a webcam e observe como os LEDs acendem de acordo com o número de dedos detectados.
+
+
 
 ## Contribuição
 
